@@ -5,5 +5,10 @@
 header{
   background-color:#383d58;
 color:white;
+  display:flex;
+  justify-content:space-arround;
+  align-sistems:conten;
+  padding:24px 0;
+  
 }
 .cabecalho-imagem{}
